@@ -6,5 +6,3 @@ Firstly, you should download chromedriver.exe in the same file, and the version 
 
 Secondly, you should create a Proxies.txt file in the same file, and the proxy formate should be IP:PORT|USERNAME:PASSWORD or IP:PORT.
 
-# Contact
-If you have any questions, you can contact me via anndavidson2765@gmail.com.
